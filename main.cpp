@@ -41,9 +41,9 @@ int main(){
                 srednia = FindAverage(tab);
                 printf("srednia = %f\n", srednia);
                 break;
-            case 0:
+            case 6:
                 break;
         }
 
-    }while (option != 5);
+    }while (option != 6);
 }
