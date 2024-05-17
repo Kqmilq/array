@@ -10,7 +10,7 @@ void menu(){
     printf("3- znajdz Max\n");
     printf("4- znajdz Min\n");
     printf("5- znajdz Srednia\n");
-    printf("0- Stop\n");
+    printf("6- Stop\n");
 }
 
 int main(){
